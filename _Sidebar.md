@@ -26,8 +26,7 @@ This list represents the step-to-step process to setup Frames. It's organized so
 17. [Setting up the icon pack (Part 1)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p1)
 18. [Setting up the icon pack (Part 2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p2)
 19. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
-20. [Define the wallpapers in icons preview](https://github.com/jahirfiquitiva/Blueprint/wiki/Define-wallpapers-in-icon-preview)
-21. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
+20. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 
-22. Publish your app! 😃 
-23. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
+21. Publish your app! 😃 
+22. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
