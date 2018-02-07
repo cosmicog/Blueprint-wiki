@@ -44,5 +44,6 @@ This list represents the step-to-step process to setup Blueprint. It's organized
 21. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 22. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 
-23. Publish your app! 😃
-24. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
+23. [Update your app's changelog](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-app's-changelog)
+24. Publish your app! 😃 
+25. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
