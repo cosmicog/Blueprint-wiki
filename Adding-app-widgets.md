@@ -38,7 +38,7 @@ To get a .9.png:
 - Tap CONTENT PADDING as edit mode.
 - Then in drawable name, name it: "app_logo" (without quotes).
 - Then press in "Download .zip" button.
-- Then extract the icon inside `res/drawable-xxxhdpi`, in `res/drawable/widgets/drawable-nodpi/`
+- Then extract the icon to `app/src/main/res/drawable/widgets/drawable-nodpi/` folder.
 
 That's it.
 
