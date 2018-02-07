@@ -1,5 +1,7 @@
 # [Support development 😄 ](https://www.jahirfiquitiva.me/support)
 
+# [How to create an icon pack](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-create-an-Icon-Pack)
+
 # Setup process
 
 This list represents the step-to-step process to setup Frames. It's organized so it's easier to follow. (Although you can do it in the order you want.)
@@ -21,5 +23,11 @@ This list represents the step-to-step process to setup Frames. It's organized so
 15. [Setting up Muzei support](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-Muzei-support)
 16. [Enabling notifications](https://github.com/jahirfiquitiva/Blueprint/wiki/Enabling-notifications)
 
-17. Publish your app! 😃 
-18. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
+17. [Setting up the icon pack (Part 1)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p1)
+18. [Setting up the icon pack (Part 2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p2)
+19. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
+20. [Define the wallpapers in icons preview](https://github.com/jahirfiquitiva/Blueprint/wiki/Define-wallpapers-in-icon-preview)
+21. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
+
+22. Publish your app! 😃 
+23. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
