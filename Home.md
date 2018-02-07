@@ -39,8 +39,8 @@ This list represents the step-to-step process to setup Blueprint. It's organized
 17. [Setting up Muzei support](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-Muzei-support)
 18. [Enabling notifications](https://github.com/jahirfiquitiva/Blueprint/wiki/Enabling-notifications)
 
-19. [Setting up the icon pack (Part 1)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p1)
-20. [Setting up the icon pack (Part 2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-p2)
+19. [Setting up the icon pack (Part 1)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-1))
+20. [Setting up the icon pack (Part 2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-2))
 21. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 22. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 
