@@ -3,7 +3,7 @@
 
 Check this folder to find the pictures the app uses for the widgets: 
 
-`res/drawable-nodpi/`
+`app/src/main/res/drawable-nodpi/`
 
 
 **Clock Widget**
