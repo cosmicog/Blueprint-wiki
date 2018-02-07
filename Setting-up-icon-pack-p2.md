@@ -47,7 +47,7 @@ You can keep bools.xml and skin_colors.xml exactly as they are.
 
 	Keep the string-array and string names ("wallpapers" and "default_wallpaper" respectively) exactly as that, for they to be properly recognized.
 
-	The items of the array, and the default wallpaper, must match the name of pictures you must add in the folder `res/drawable/designer/drawable-nodpi`
+	The items of the array, and the default wallpaper, must match the name of pictures you must add in the folder `app/src/main/res/drawable-nodpi`
 
 
 * Now the longest file
