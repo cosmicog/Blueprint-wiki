@@ -1,10 +1,10 @@
 Welcome to the Blueprint wiki!
 
-On the right, you will find a sidebar with all links to every part of the Wiki, organized to be easy to follow. Although everything is listed below too 😄.
+On the right, you will find a sidebar with all links to every part of the Wiki, organized to be easy to follow. However, everything is listed below as well 😄.
 
 ## Dashboard setup website
 
-I have created a cool website to help you getting started with any of my dashboards.
+I have created a website that makes it _incredibly_ easy to set up your dashboard.
 
 <a target="_blank" href="http://www.jahirfiquitiva.me/dashsetup/">
 <img src="http://jahirfiquitiva.me/share/visit_website.svg?maxAge=432000" width="200"/>
@@ -18,7 +18,7 @@ I have created a cool website to help you getting started with any of my dashboa
 
 ## Setup process
 
-This list represents the step-to-step process to setup Blueprint. It's organized so it's easier to follow. (Although you can do it in the order you want.)
+The following is a step-to-step process for Blueprint setup. It's organized so as to be easier to follow. (Although you can do it in whatever order you want.)
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-Project)
 2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project----build.gradle)
