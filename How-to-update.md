@@ -22,3 +22,7 @@ Continue reading just in case bigger changes are required ;)
 Whenever a new release is available **and** it requires extra changes for your setup, this is the section where they will be mentioned.
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
+
+#### v 1.0.4:
+
+Update the [`proguard-rules.pro`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/proguard-rules.pro) file.
