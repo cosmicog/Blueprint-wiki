@@ -20,12 +20,12 @@ I have created a website that makes it _incredibly_ easy to set up your dashboar
 
 The following is a step-to-step process for Blueprint setup. It's organized so as to be easier to follow. (Although you can do it in whatever order you want.)
 
-1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-Project)
-2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project----build.gradle)
-3. [Setting `AndroidManifest.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project----AndroidManifest.xml)
+1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
+2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
+3. [Setting `AndroidManifest.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-AndroidManifest.xml)
 4. [Change app icons](https://github.com/jahirfiquitiva/Blueprint/wiki/Changing-app-launcher-and-splash-screen-icons)
 5. [Setting colors up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-colors.xml)
-6. [Setting `MainActivity.kt` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your---MainActivity.kt)
+6. [Setting `MainActivity.kt` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-MainActivity.kt)
 7. [Setting `strings.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-strings.xml)
 8. [Setting `blueprint_configs.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-blueprint_configs.xml)
 9. [Setting `extra_configs.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-extra_configs.xml)
