@@ -1,7 +1,7 @@
 ## Importing the project to Android Studio
 
 **First of all install Android Studio Kotlin plugin**
-1. Go to File->Settings->Plugins->Install plugin
+1. Go to File🡒Settings🡒Plugins🡒Install plugin
 2. Search for Kotlin plugin
 3. Install it
 4. Restart Android Studio when install finished
@@ -15,7 +15,7 @@
 
 - Expand following directories `/app/src/kotlin`.
 - Right click on `kotlin` directory.
-- Choose `new > package`.
+- Choose `New 🡒 Package`.
 - Enter your package name into the window eg. `com.package.name`.
 - From expanded default package directory `jahirfiquitiva/apps/blueprint/demo/` select all `*.kt` files and cut them (using ctrl+x).
 - Paste these files into your own package directory.
