@@ -1,4 +1,4 @@
-Open build.gradle file that is located in `app/build.gradle`.
+Open the `build.gradle` file that is located in `app/build.gradle`.
 
 All we care about is `applicationId` which is inside this group:
 ````kotlin
