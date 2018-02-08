@@ -7,7 +7,7 @@
 This list represents the step-to-step process to setup Blueprint. It's organized so it's easier to follow. (Although you can do it in the order you want.)
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-Project)
-2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project-build.gradle)
+2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
 3. [Setting `AndroidManifest.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project-AndroidManifest.xml)
 4. [Change app icons](https://github.com/jahirfiquitiva/Blueprint/wiki/Changing-app-launcher-and-splash-screen-icons)
 5. [Setting colors up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-colors.xml)
