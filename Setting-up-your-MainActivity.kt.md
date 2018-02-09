@@ -76,12 +76,12 @@ If your app is going to be paid, you may want to enable the **License Checker**.
 
 
 ## Switching from Bottom Navigation to Navigation Drawer
-Blueprint's default navigation type is bottom navigation. If you are willing to change it to Navigation Drawer, you just need to edit this line:
+Blueprint's default navigation method is bottom navigation. If you'd to change it to a navigation drawer, edit the following file:
 ```kotlin
 class MainActivity:BottomNavigationBlueprintActivity() {
 ```
-According to comments in that file, you need to change `BottomNavigationBlueprintActivity` to `DrawerBlueprintActivity`.
-After change, your code should look like this
+As stated in the file's comments, you just need to change `BottomNavigationBlueprintActivity` to `DrawerBlueprintActivity`.
+After this change, your code should look like this:
 ```kotlin
 class MainActivity:DrawerBlueprintActivity() {
 ```
