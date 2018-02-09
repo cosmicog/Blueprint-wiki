@@ -17,4 +17,4 @@ In `AndroidManifest.xml` you can find these lines:
 ```
 Be sure they are enabled if you plan on enabling donations to you. Otherwise, you are free to remove them.
 
-Additionally, if you plan on enabling donations, you must also add a license key, even if you don't enable license check. That key works for both license check _and_ in-app purchases (donations). Learn how to do it [here](hhttps://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-MainActivity.kt#what-does-every-line-do).
+Additionally, if you plan on enabling donations, you must also add a license key, even if you don't enable license check. That key works for both license check _and_ in-app purchases (donations). Learn how to do it [here](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-MainActivity.kt#what-does-every-line-do).
