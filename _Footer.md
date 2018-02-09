@@ -1,5 +1,5 @@
 
-	Wiki written by Patryk Goworowski and Patryk Michalik (aka Lumiq Creative)	
+	Wiki written by Patryk Goworowski, Patryk Michalik (aka Lumiq Creative), and Jackson Hayes	
 
 	Copyright © 2018 Jahir Fiquitiva
 
