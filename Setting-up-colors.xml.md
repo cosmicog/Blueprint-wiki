@@ -43,3 +43,32 @@ To avoid copying the same color into many fields, you can connect certain values
 ````
 
 Remember to edit all the values in this file, to maintain a consistent look throughout all the available dashboard themes.
+
+## Changing the Color of the Filter Chips
+
+To modify the shades of the colored backgrounds behind the filter name entries located in the icon preview section's slide-out filtering drawer, enter custom hexadecimal color codes in each of the following string array's items.
+
+```xml
+    <!-- FILTERS COLORS -->
+    <!-- Used Material Design 100 shade values -->
+    <string-array name="filters_colors">
+        <item>#ffcdd2</item>
+        <item>#e1bee7</item>
+        <item>#c5cae9</item>
+        <item>#b3e5fc</item>
+        <item>#b2dfdb</item>
+        <item>#dcedc8</item>
+        <item>#fff9c4</item>
+        <item>#ffe0b2</item>
+        <item>#d7ccc8</item>
+        <item>#cfd8dc</item>
+        <item>#f8bbd0</item>
+        <item>#d1c4e9</item>
+        <item>#bbdefb</item>
+        <item>#b2ebf2</item>
+        <item>#c8e6c9</item>
+        <item>#f0f4c3</item>
+        <item>#ffecb3</item>
+        <item>#ffccbc</item>
+    </string-array>
+```
