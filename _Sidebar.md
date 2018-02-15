@@ -19,7 +19,7 @@ This list represents the step-to-step process to setup Blueprint. It's organized
 11. [Setting `frames_configs.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-frames_configs.xml)
 12. [Adding Zooper widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-Zooper-widgets)
 13. [Adding Kustom assets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-Kustom-assets)
-14. [Setting up Credits](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project-credits_configs.xml)
+14. [Setting up Credits](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project---credits_configs.xml)
 15. [Optimize your wallpapers](https://github.com/jahirfiquitiva/Blueprint/wiki/Optimize-your-wallpapers-for-faster-load)
 16. [Setting up the JSON file](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-json-file)
 17. [Setting up Muzei support](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-Muzei-support)
