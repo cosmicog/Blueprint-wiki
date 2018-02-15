@@ -85,3 +85,11 @@ After this change, your code should look like this:
 ```kotlin
 class MainActivity:DrawerBlueprintActivity() {
 ```
+
+## Fixing wrong import
+Android Studio may wrongly import a `BuildConfig` class from Blueprint's default package which will cause a Build Error.
+This bad import would look like this 
+```kotlin
+import jahirfiquitiva.apps.blueprint.demo.BuildConfigs
+```
+Where `apps` will have a red color. All you have to do to fix this error is delete the line above and Rebuild your project.
