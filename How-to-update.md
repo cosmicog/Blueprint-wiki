@@ -23,6 +23,12 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.1.1:
+1. Update your build.gradle to match the new [`app/build.gradle` file](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/build.gradle)
+2. Update the proguard files:
+    * [`proguard-android-optimize.txt`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/proguard-android-optimize.txt)
+    * [`proguard-rules.pro`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/proguard-rules.pro)
+
 #### v 1.0.4:
 
 Update the [`proguard-rules.pro`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/proguard-rules.pro) file.
