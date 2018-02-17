@@ -1,4 +1,4 @@
-After you have imported your project successfully, go to the java files and edit `MainActivity.kt`, which is located at `app/src/main/kotlin/your.package.name/`
+After you have imported your project successfully, go to the java files and edit `MainActivity.kt`, which is located at `app/src/main/kotlin/your/package/name/`
 
 ## You will find these lines there:
 ```kotlin
@@ -92,4 +92,8 @@ This bad import would look like this
 ```kotlin
 import jahirfiquitiva.apps.blueprint.demo.BuildConfig
 ```
-Where `apps` will have a red color. All you have to do to fix this error is delete the line above and Rebuild your project.
+Where `apps` will have a red color. All you have to do to fix this error is change the line above to:
+```kotlin
+import your.package.name.BuildConfig
+```
+and Rebuild your project.
