@@ -1,10 +1,8 @@
-Welcome to the Blueprint wiki!
-
-On the right, you will find a sidebar with all links to every part of the Wiki, organized to be easy to follow. However, everything is listed below as well 😄.
+Welcome to the Blueprint Wiki! On the right, you will find a sidebar with links to each part of this guide, organized to be easy to follow. However, everything is listed below as well.
 
 ## Dashboard setup website
 
-I have created a website that makes it _incredibly_ easy to set up your dashboard.
+To make setting up the dashboard a simple, painless experience, you can visit the dashboard setup website using the link below. The tool will generate most setup files for you.
 
 <a target="_blank" href="http://www.jahirfiquitiva.me/dashsetup/">
 <img src="http://jahirfiquitiva.me/share/visit_website.svg?maxAge=432000" width="200"/>
@@ -14,11 +12,9 @@ I have created a website that makes it _incredibly_ easy to set up your dashboar
 <img src="http://jahirfiquitiva.me/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## [How to create an icon pack](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-create-an-Icon-Pack)
-
 ## Setup process
 
-The following is a step-to-step process for Blueprint setup. It's organized so as to be easier to follow. (Although you can do it in whatever order you want.)
+The following is a list of all modifications you'll need to do to the default project's code, organised step-by-step so you can follow it easily. The order of these edits isn't important.
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
 2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
@@ -44,6 +40,5 @@ The following is a step-to-step process for Blueprint setup. It's organized so a
 21. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 22. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 
-23. [Update your app's changelog](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-app's-changelog)
-24. Publish your app! 😃 
+23. [Updating your app's changelog](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-app's-changelog)
 25. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
