@@ -1,6 +1,6 @@
 * [Home](https://github.com/jahirfiquitiva/Blueprint/wiki)
 * [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
-*. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
+* [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
 * [Setting `AndroidManifest.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-AndroidManifest.xml)
 * [Change app icons](https://github.com/jahirfiquitiva/Blueprint/wiki/Changing-app-launcher-and-splash-screen-icons)
 * [Setting colors up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-colors.xml)
