@@ -1,7 +1,5 @@
 # [Support development](https://www.jahirfiquitiva.me/support)
 
-# [How to create an icon pack](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-create-an-Icon-Pack)
-
 # Setup process
 
 This list represents the step-to-step process of setting Blueprint up. The order of these changes isn't important.
