@@ -1,4 +1,4 @@
-  
+
 * [Home](https://github.com/jahirfiquitiva/Blueprint/wiki)
 
 ***
