@@ -1,7 +1,7 @@
-# Support development
+# Support Development
 If you found Blueprint useful and would like to help me continue developing it, you can donate to me [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
 
-# Setup process
+# Setup Process
 This list represents the step-to-step process of setting Blueprint up. The order of these changes isn't important.
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
@@ -27,4 +27,6 @@ This list represents the step-to-step process of setting Blueprint up. The order
 21. [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 22. [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 23. [Update your app's changelog](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-app's-changelog) 
-25. [Update to latest version](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
+
+# Updating Blueprint
+To learn how to update to the newest available version of Blueprint, click [here](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update).
