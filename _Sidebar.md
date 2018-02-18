@@ -1,10 +1,10 @@
-# [Support development 😄 ](https://www.jahirfiquitiva.me/support)
+# [Support development](https://www.jahirfiquitiva.me/support)
 
 # [How to create an icon pack](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-create-an-Icon-Pack)
 
 # Setup process
 
-This list represents the step-to-step process to setup Blueprint. It's organized so it's easier to follow. (Although you can do it in the order you want.)
+This list represents the step-to-step process of setting Blueprint up. The order of these changes isn't important.
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
 2. [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
