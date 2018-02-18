@@ -7,4 +7,4 @@ To make setting up the dashboard a simple, painless experience, you can use the 
 Trouble setting up Blueprint? Visit our Google Plus community [here](https://plus.google.com/communities/117748118619432374563) to get support or help others.
 
 ## Support Development
-If you found Blueprint useful and would like to help me continue developing it, you can donate to me [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
+If you found Blueprint useful and would like to help us continue developing it, you can donate [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
