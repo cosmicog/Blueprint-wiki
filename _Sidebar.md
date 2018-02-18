@@ -1,4 +1,4 @@
-# [Support development](https://www.jahirfiquitiva.me/support)
+# Support development
 If you found Blueprint useful and would like to help me continue developing it, you can donate to me [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
 
 # Setup process
