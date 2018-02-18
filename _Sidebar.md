@@ -1,6 +1,3 @@
-# Support Development
-If you found Blueprint useful and would like to help me continue developing it, you can donate to me [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
-
 # Setup Process
 This list represents the step-to-step process of setting Blueprint up. The order of these changes isn't important.
 
