@@ -2,15 +2,7 @@ Welcome to the Blueprint Wiki! On the right, you will find a sidebar with links 
 
 ## Dashboard Setup Website
 
-To make setting up the dashboard a simple, painless experience, you can use the dashboard setup website linked below. The tool will generate most setup files for you, saving you time and effort.
-
-<a target="_blank" href="http://www.jahirfiquitiva.me/dashsetup/">
-<img src="http://jahirfiquitiva.me/share/visit_website.svg?maxAge=432000" width="200"/>
-</a>
-
-<a target="_blank" href="http://www.jahirfiquitiva.me/support/">
-<img src="http://jahirfiquitiva.me/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
+To make setting up the dashboard a simple, painless experience, you can use the dashboard setup website by clicking [here](http://www.jahirfiquitiva.me/dashsetup/). The tool will generate most setup files for you, saving you time and effort.
 
 ## Setup Process
 
