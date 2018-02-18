@@ -1,6 +1,6 @@
 Welcome to the Blueprint Wiki! On the right, you will find a sidebar with links to each part of this guide, organized to be easy to follow. However, everything is listed below as well.
 
-## Dashboard setup website
+## Dashboard Setup Website
 
 To make setting up the dashboard a simple, painless experience, you can use the dashboard setup website linked below. The tool will generate most setup files for you, saving you time and effort.
 
@@ -12,7 +12,7 @@ To make setting up the dashboard a simple, painless experience, you can use the 
 <img src="http://jahirfiquitiva.me/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## Setup process
+## Setup Process
 
 The following is a list of all modifications you'll need to do to the default project's code, organised step-by-step so you can follow it easily. The order of these edits isn't important.
 
