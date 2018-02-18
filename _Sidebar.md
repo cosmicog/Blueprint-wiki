@@ -1,7 +1,7 @@
 # [Support development](https://www.jahirfiquitiva.me/support)
+If you found Blueprint useful and would like to help me continue developing it, you can donate to me [here](https://www.jahirfiquitiva.me/donate/). Thanks in advance!
 
 # Setup process
-
 This list represents the step-to-step process of setting Blueprint up. The order of these changes isn't important.
 
 1. [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
