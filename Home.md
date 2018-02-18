@@ -1,4 +1,4 @@
-Welcome to the Blueprint Wiki! On the right, you will find a sidebar with links to each part of this guide, organized to be easy to follow.
+Welcome to the Blueprint Wiki! On the right, you will find a sidebar with links to each part of this guide, organized step-by-step to be easy to follow.
 
 ## Dashboard Setup Website
 To make setting up the dashboard a simple, painless experience, you can use the dashboard setup website by clicking [here](http://www.jahirfiquitiva.me/dashsetup/). The tool will generate most setup files for you, saving you time and effort.
