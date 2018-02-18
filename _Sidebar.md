@@ -1,4 +1,7 @@
 * [Home](https://github.com/jahirfiquitiva/Blueprint/wiki)
+
+***
+
 * [First steps](https://github.com/jahirfiquitiva/Blueprint/wiki/Importing-the-Project)
 * [Setting `build.gradle` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-build.gradle)
 * [Setting `AndroidManifest.xml` up](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-project%27s-AndroidManifest.xml)
@@ -22,4 +25,7 @@
 * [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 * [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 * [Update your app's changelog](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-app's-changelog)
+
+***
+
 * [Updating Blueprint](https://github.com/jahirfiquitiva/Blueprint/wiki/How-to-update)
