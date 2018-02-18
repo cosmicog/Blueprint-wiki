@@ -1,13 +1,11 @@
 
-	Wiki written by Patryk Goworowski, Patryk Michalik (aka Lumiq Creative), and Jackson Hayes	
+	Wiki written by Patryk Goworowski, Lumiq Creative, and Jackson Hayes. Special thanks to Sanchith Hedge.
 
 	Copyright © 2018 Jahir Fiquitiva
 
 	Licensed under the CreativeCommons Attribution-ShareAlike 
 	4.0 International License. You may not use this file except in compliance 
-	with the License. You may obtain a copy of the License at
-
-	   http://creativecommons.org/licenses/by-sa/4.0/legalcode
+	with the License. You may obtain a copy of the License at http://creativecommons.org/licenses/by-sa/4.0/legalcode.
 
 	Unless required by applicable law or agreed to in writing, software
 	distributed under the License is distributed on an "AS IS" BASIS,
