@@ -25,3 +25,6 @@
 * [Setting up the icon pack (2/2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-2))
 * [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 * [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
+
+## Optional Modifications
+* [Modifying dashboard assets](https://github.com/jahirfiquitiva/Blueprint/wiki/Modifying-dashboard-assets)
