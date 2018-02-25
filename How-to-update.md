@@ -23,6 +23,10 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.1.3:
+1. There's a new [`launchers.xml` file](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/launchers.xml) where you can remove the launchers you don't want to show in the "Apply" section.
+2. There's a new [`bool` config](https://github.com/jahirfiquitiva/Blueprint/blob/121db2c562a7a9cd4dca1c812e4af4d203722be2/app/src/main/res/values/blueprint_configs.xml#L30) in [`blueprint_configs.xml`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/blueprint_configs.xml) in case you want to hide the "General Information" in "Home" section.
+
 #### v 1.1.1:
 1. Update your build.gradle to match the new [`app/build.gradle` file](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/build.gradle)
 2. Update the proguard files:
