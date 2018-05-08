@@ -7,7 +7,7 @@ These files are in `app/src/main/assets/` folder:
 - app_func_theme.xml
 - appfilter.xml
 - desk.xml
-- drawable.xml
+- drawable.xml (used by launchers)
 - themecfg.xml
 - themefont.ttf (Notice this is a font file).
 - themeinfo.xml
@@ -19,7 +19,7 @@ These files are in `app/src/main/assets/` folder:
 These files must be in `app/src/main/res/xml/` folder.
 - appfilter.xml
 - appmap.xml
-- drawable.xml
+- drawable.xml (used by Blueprint)
 - noshader.xml
 - theme_resources.xml
 - themecfg.xml
@@ -28,6 +28,8 @@ These files must be in `app/src/main/res/xml/` folder.
 ---
 
 **As you can see, some files are in 2 folders. They are the exact same files, you don't need to modify them, just copy and paste them in the other folders.**
+
+However, please keep in mind, that some launchers like Lawnchair Launcher generate _All_ icons tab automatically, so you should avoid having such _tab_/_category_ in your drawable.xml file located in `app/src/main/assets/`
 
 ---
 
