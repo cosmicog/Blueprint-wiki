@@ -1,4 +1,4 @@
-Wiki written by Patryk Goworowski, Lumiq Creative, and Jackson Hayes. Special thanks to Sanchith Hedge. Copyright © 
+Wiki written by Patryk Goworowski, Lumiq Creative, and Jackson Hayes. Special thanks to Sanchith Hegde. Copyright © 
 2018 Jahir Fiquitiva.
 
 Licensed under the CreativeCommons Attribution-ShareAlike 
