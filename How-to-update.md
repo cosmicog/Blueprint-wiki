@@ -6,12 +6,12 @@ To do it, go to the `build.gradle` file inside `app` folder.
 
 Then look for these lines:
 ```gradle
-implementation('me.jahirfiquitiva:Blueprint:{latest version}@aar') {
+implementation('com.jahirfiquitiva:Blueprint:{latest version}@aar') {
     transitive = true
 }
 ```
 
-Replace `{latest version}` with the last version code from [![JitPack](https://jitpack.io/v/jahirfiquitiva/Blueprint.svg)](https://jitpack.io/#jahirfiquitiva/Blueprint)
+Replace `{latest version}` with the last version code from [![JitPack](https://jitpack.io/v/com.jahirfiquitiva/Blueprint.svg)](https://jitpack.io/#com.jahirfiquitiva/Blueprint)
 
 Continue reading just in case bigger changes are required ;)
 
