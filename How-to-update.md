@@ -23,6 +23,9 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.2.0:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/fc306d4097433e4cfbad60de71776d4ef7787a04) shows. :wink:
+
 #### v 1.1.8:
 Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/93f46d3596bde409752fd828af7f0a86b2099b46) shows. :wink:
 
