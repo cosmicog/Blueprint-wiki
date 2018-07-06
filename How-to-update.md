@@ -23,20 +23,23 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.2.4:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/2aec21edd02a797088172b2d694fe2ac517088bd) shows.
+
 #### v 1.2.3:
-Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/de649afc2a4c2bcadb502bab21ee2905848fd735) shows. :wink:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/de649afc2a4c2bcadb502bab21ee2905848fd735) shows.
 
 #### v 1.2.0:
-Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/fc306d4097433e4cfbad60de71776d4ef7787a04) shows. :wink:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/fc306d4097433e4cfbad60de71776d4ef7787a04) shows.
 
 #### v 1.1.8:
-Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/93f46d3596bde409752fd828af7f0a86b2099b46) shows. :wink:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/93f46d3596bde409752fd828af7f0a86b2099b46) shows.
 
 #### v 1.1.5:
 Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/97ef8ba91458d5da9a9a2ea405440472f3da7242) shows. Basically just some minor version updates :wink:
 
 #### v 1.1.4:
-Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/71343ab54e771df946a5e4d17ac4de44a8836b4b) shows. Basically just some minor version updates :wink:
+Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/71343ab54e771df946a5e4d17ac4de44a8836b4b) shows. Basically just some minor version updates.
 
 #### v 1.1.3:
 1. There's a new [`launchers.xml` file](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/launchers.xml) where you can remove the launchers you don't want to show in the "Apply" section.
