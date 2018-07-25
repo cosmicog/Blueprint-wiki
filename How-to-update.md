@@ -23,6 +23,9 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.2.6:
+Update the [`app/build.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/build.gradle) and [`dependencies.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/dependencies.gradle) files.
+
 #### v 1.2.4:
 Easy as doing the same changes in the files that this [commit](https://github.com/jahirfiquitiva/Blueprint/commit/2aec21edd02a797088172b2d694fe2ac517088bd) shows.
 
