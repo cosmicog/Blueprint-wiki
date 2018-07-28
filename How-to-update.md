@@ -23,6 +23,9 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.2.7:
+Update your `AndroidManifest.xml` as done [in this commit](https://github.com/jahirfiquitiva/Blueprint/commit/d764658515e4454e361e766bdb33eeccf2b35798).
+
 #### v 1.2.6:
 Update the [`app/build.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/build.gradle) and [`dependencies.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/dependencies.gradle) files.
 
