@@ -24,7 +24,7 @@ Whenever a new release is available **and** it requires extra changes for your s
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
 #### v 1.2.9:
-Provide links for your [`Privacy Policy` and `Terms and Conditions`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/strings.xml#L31) in order to avoid issues with Play Store.
+Provide links for your [`Privacy Policy` and/or `Terms and Conditions`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/strings.xml#L31) in order to avoid issues with Play Store.
 
 #### v 1.2.8:
 Update the [`app/build.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/build.gradle), [`launchers.xml`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/launchers.xml) and [`dependencies.gradle`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/dependencies.gradle) files.
