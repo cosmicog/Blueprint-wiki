@@ -23,6 +23,9 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.3.0:
+Check the changes in [this commit](https://github.com/jahirfiquitiva/Blueprint/commit/96c8408e9ffa2fac283a35993cf56b9b948f8e3e)
+
 #### v 1.2.9:
 Provide links for your [`Privacy Policy` and/or `Terms and Conditions`](https://github.com/jahirfiquitiva/Blueprint/blob/sample/app/src/main/res/values/strings.xml#L31) in order to avoid issues with Play Store. [Generate them here](https://app-privacy-policy-generator.firebaseapp.com/).
 
