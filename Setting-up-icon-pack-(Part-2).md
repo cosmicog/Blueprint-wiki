@@ -76,3 +76,20 @@ You can keep bools.xml and skin_colors.xml exactly as they are.
 **If you think creating this file is tedious, or a bit hard, you might want to check the [tool Allan Wang created](https://github.com/jahirfiquitiva/IconShowcase-Dashboard/wiki/Tools).**
 
 That's it.
+
+## Naming icons
+
+Blueprint has file naming conventions (from Polar dashboard) which allow you to specify how the app's name will be displayed in the dashboard. Here are the rules:
+* **No changes:** the first letter of the name will be capital.
+* **Single underscores:** will become a space in the middle of a word, the next letter is capital. If it's placed at the beginning of the name, it makes the first letter lowercase.
+* **Double underscores:** no space, makes the next letter capital.
+* **Triple underscores:** makes the next word all capital.
+
+Here are some examples:
+* **betternet.png** will become **Betternet**
+* **google_chrome.png** will become **Google Chrome**
+* **pay__pal.png** will become **PayPal**
+* **_blueprint.png** will become **blueprint**
+* **___blueprint.png** will become **BLUEPRINT**
+* **___npr_one.png** will become **NPR One**
+* **material___os.png** will become **MaterialOS**
