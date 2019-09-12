@@ -23,6 +23,9 @@ Whenever a new release is available **and** it requires extra changes for your s
 
 Check if you have done the required changes for the newest versions and do them if you haven't.
 
+#### v 1.4.9 and 1.5.0:
+Check and apply the changes in [this commit](https://github.com/jahirfiquitiva/Blueprint/commit/4e3c7c9a74630b0a6ec4828e72725059019fd70c) and [this commit](https://github.com/jahirfiquitiva/Blueprint/commit/d710402720bcdff821309c0cb2e53fad5b7eef52)
+
 #### v 1.4.2:
 Check and apply the changes in [this commit](https://github.com/jahirfiquitiva/Blueprint/commit/799ea353b7bff49c48e8036613378d8cf71479c9)
 
