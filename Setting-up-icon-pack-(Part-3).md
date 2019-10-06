@@ -6,7 +6,7 @@ There are 2 things you need to get first;
 Copy your big, perfectly sized (I recommend 288x288) icon to the `drawable-nodpi` folder, let's say, named `com_google_android_apps_messaging.png` and do the **6 steps below** for your icon.
 
 ---
-** 1. Inside the  `app/src/main/res/xml/appfilter.xml` file **
+**1. Inside the  `app/src/main/res/xml/appfilter.xml` file**
 
 by using `pkg_name/activity_class_name` and `png_name`, create the item below:
 
@@ -16,7 +16,7 @@ by using `pkg_name/activity_class_name` and `png_name`, create the item below:
         drawable="com_google_android_apps_messaging" />
 ```
 
-** 2. Inside the `app/src/main/res/xml/appmap.xml` file **
+**2. Inside the `app/src/main/res/xml/appmap.xml` file**
 
 `activity_class_name` + `png_name`
 
@@ -26,7 +26,7 @@ by using `pkg_name/activity_class_name` and `png_name`, create the item below:
         name="com_google_android_apps_messaging" />
 ```
 
-** 3. Inside the  `app/src/main/res/xml/drawable.xml` file **
+**3. Inside the  `app/src/main/res/xml/drawable.xml` file**
 
 under title All(or your choice) `png_name`
 
@@ -34,7 +34,7 @@ under title All(or your choice) `png_name`
     <item drawable="com_google_android_apps_messaging" />
 ```
 
-** 5. Inside the  `app/src/main/res/xml/theme_resources.xml` file**
+**5. Inside the  `app/src/main/res/xml/theme_resources.xml` file**
 
 pkg_name/activity_class_name + png_name
 
@@ -44,7 +44,7 @@ pkg_name/activity_class_name + png_name
         image="com_google_android_apps_messaging" />
 ```
 
-** 6. Inside the  `app/src/main/res/values/icon_pack.xml` file **
+**6. Inside the  `app/src/main/res/values/icon_pack.xml` file**
 
 under all and icon_pack arrays (and your arrays); `png_name`
 
