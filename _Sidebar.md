@@ -21,8 +21,9 @@
 * [Setting up the JSON file](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-your-json-file)
 * [Setting up Muzei support](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-Muzei-support)
 * [Enabling notifications](https://github.com/jahirfiquitiva/Blueprint/wiki/Enabling-notifications)
-* [Setting up the icon pack (1/2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-1))
-* [Setting up the icon pack (2/2)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-2))
+* [Setting up the icon pack (1/3)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-1))
+* [Setting up the icon pack (2/3)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-2))
+* [Setting up the icon pack (3/3)](https://github.com/jahirfiquitiva/Blueprint/wiki/Setting-up-icon-pack-(Part-3))
 * [Adding widgets](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-app-widgets)
 * [Add support for Smart Launcher](https://github.com/jahirfiquitiva/Blueprint/wiki/Adding-support-for-Smart-Launcher)
 
